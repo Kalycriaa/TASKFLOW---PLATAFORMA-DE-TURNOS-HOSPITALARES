@@ -1,6 +1,4 @@
-# Plataforma de Match para Turnos Hospitalares
-
-O projeto foi reorganizado para ficar pronto para crescer dentro do VS Code e para receber depois a sua API regional de endereco/distancia sem misturar essa logica nas rotas.
+# TASKFLOW - Plataforma de Turnos Hospitalares
 
 ## Estrutura de pastas no VS Code
 
